@@ -55,7 +55,7 @@ nav .container {
   transition: 0.5s;
 }
 
-/* HERO */
+
 .hero {
   text-align: center;
   padding: 100px 20px;
@@ -126,7 +126,7 @@ justify-content: flex-end;
 }
 
 .about-content img:hover {
-  content: url(img/shy.png);
+  content: url(shy.png);
   cursor: pointer;
   transition: 0.5s;
   }
